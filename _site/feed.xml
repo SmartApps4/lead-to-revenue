@@ -3,10 +3,10 @@
   <channel>
     <title>Lead to Revenue</title>
     <description>Learn how to turn leads and prospects into predictable, sustainable revenue.</description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 03 Mar 2015 09:01:51 -0600</pubDate>
-    <lastBuildDate>Tue, 03 Mar 2015 09:01:51 -0600</lastBuildDate>
+    <link>smartapps4.com/lead-to-revenue//</link>
+    <atom:link href="smartapps4.com/lead-to-revenue//feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 03 Mar 2015 14:31:42 -0600</pubDate>
+    <lastBuildDate>Tue, 03 Mar 2015 14:31:42 -0600</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -14,8 +14,8 @@
         <description>
 </description>
         <pubDate>Sun, 08 Mar 2015 07:00:00 -0500</pubDate>
-        <link>/class/sales-effectiveness</link>
-        <guid isPermaLink="true">/class/sales-effectiveness</guid>
+        <link>smartapps4.com/lead-to-revenue//class/sales-effectiveness</link>
+        <guid isPermaLink="true">smartapps4.com/lead-to-revenue//class/sales-effectiveness</guid>
         
         
       </item>
@@ -25,8 +25,8 @@
         <description>
 </description>
         <pubDate>Wed, 04 Mar 2015 06:00:00 -0600</pubDate>
-        <link>/class/data</link>
-        <guid isPermaLink="true">/class/data</guid>
+        <link>smartapps4.com/lead-to-revenue//class/data</link>
+        <guid isPermaLink="true">smartapps4.com/lead-to-revenue//class/data</guid>
         
         
       </item>
@@ -55,8 +55,8 @@
 
 </description>
         <pubDate>Mon, 02 Mar 2015 06:00:00 -0600</pubDate>
-        <link>/class/intro</link>
-        <guid isPermaLink="true">/class/intro</guid>
+        <link>smartapps4.com/lead-to-revenue//class/intro</link>
+        <guid isPermaLink="true">smartapps4.com/lead-to-revenue//class/intro</guid>
         
         
       </item>
