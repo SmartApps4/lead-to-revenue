@@ -1,0 +1,23 @@
+# Site settings
+title: Lead to Revenue
+header-img: img/home-bg.jpg
+email: hi@leadtorevenue.com
+description: "Learn how to turn leads and prospects into predictable, sustainable revenue."
+baseurl: ""
+
+
+twitter_username: SBootstrap
+github_username:  davidtmiller
+facebook_username:  IronSummitMedia
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+
+
+permalink: /class/:title
+paginate: 5
+paginate_path: "/class/page:num"
+
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+

@@ -1,0 +1,73 @@
+---
+layout: page
+title: "Lessons"
+description: ""
+header-img: "img/about-bg.jpg"
+---
+
+<!-- Page Header -->
+<header class="intro-header" >
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                <div class="site-heading" style="padding-bottom:0px;">
+                    <h1>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</h1>
+                    <hr class="small">
+
+
+                    <span class="subheading">{{ page.description }}</span>
+                    <br>
+                    <br>                    
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+
+<section>
+	<div class="container">
+		<div class="row">
+			<div class="col-sm-8 col-sm-offset-2">
+				{% for post in site.posts reversed %}
+				<small style="color:#27ae60;">LESSON {{post.lesson}}</small>
+				<div class="post-preview">
+				    <a href="{{ post.url | prepend: site.baseurl }}">
+				        <h2 class="post-title">            {{ post.title }}
+				        </h2>
+				        {% if post.subtitle %}
+				        <h3 class="post-subtitle">
+				            {{ post.subtitle }}
+				        </h3>
+				        {% endif %}
+				    </a>
+				    <br>
+				    <p class="post-meta">{% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}</p>
+				</div>
+				<hr>
+				{% endfor %}
+			</div>
+		</div>
+			<p style="text-align:center; color:#27ae60;">More Classes on the Way - Check back soon!</p>
+	</div>
+
+
+</section>
+
+<section class="gray">
+    <div class="container">
+        <div class="row">
+        <div class="col-sm-6">
+         <small>Receive a lesson in your inbox each week, hand crafted by our experts. Learn at your own pace, and apply it to your real life work.</small>  
+        </div>
+            <div class="col-sm-6">
+             
+              <input style="width:300px; height:40px; line-height:40px; border:none; padding:6px;" type="text" placeholder="">
+              <input type="submit" style="height:40px; text-transform:uppercase; color:#fff; background-color:#27ae60; border:none; width:150px; font-size:16px; padding:6px;"value="Get Started">
+              <br>
+              <br>
+              <small>No Spam Ever.  We Promise</small>
+            </div>
+        </div>
+    </div>
+
+</section>

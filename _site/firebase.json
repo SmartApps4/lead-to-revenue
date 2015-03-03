@@ -1,0 +1,9 @@
+{
+  "firebase": "l2r",
+  "public": "_site",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
