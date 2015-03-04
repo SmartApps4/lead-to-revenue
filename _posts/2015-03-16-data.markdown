@@ -2,8 +2,8 @@
 layout:   post
 lesson:		2
 title:    "Better Data, Better Decisions, Better Business"
-subtitle: "Low quality data is truly the secret assassin of CRM and ERP success.  When the quality of data in any business system is poor; users are unhappy, leads are squandered and potential revenue underachieved. <br>
-The purpose of this role based training session is to help you recognize the symptoms of low quality data and present common sense solutions to the problem.  You will learn how to capture better lead data, which will produce better qualified opportunities and hence generate more revenue for greater business success."
+subtitle: "<p>Low quality data is truly the secret assassin of CRM and ERP success.  When the quality of data in any business system is poor; users are unhappy, leads are squandered and potential revenue underachieved.</p> 
+<p>The purpose of this role based training session is to help you recognize the symptoms of low quality data and present common sense solutions to the problem.  You will learn how to capture better lead data, which will produce better qualified opportunities and hence generate more revenue for greater business success.</p>"
 date:       2015-03-16 12:00:00
 author:     "Martin Doyle"
 ---
