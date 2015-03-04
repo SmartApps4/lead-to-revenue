@@ -1,7 +1,7 @@
 ---
 layout:     post
 lesson: 	1
-title:      "Introduction & Case Study"
+title:      "Introduction & MedEdge case study"
 subtitle:   "Learn why managing your Lead to Revenue Cycle is so important"
 date:       2015-03-09 12:00:00
 author:     "Tony Berry"
