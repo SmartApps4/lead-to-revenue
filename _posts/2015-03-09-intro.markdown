@@ -2,27 +2,24 @@
 layout:     post
 lesson: 	1
 title:      "Introduction & Case Study"
-subtitle:   "Learn Why Managing your Lead to Revenue Cycle is so important"
-date:       2015-03-02 12:00:00
+subtitle:   "Learn why managing your Lead to Revenue Cycle is so important"
+date:       2015-03-09 12:00:00
 author:     "Tony Berry"
 header-img: "img/post-bg-01.jpg"
-videoURL:    "https://www.youtube.com/embed/3yKy89vKq5I"
+videoURL:    ""
 ---
 
 <section class="materials">
 <h3 style="text-align:center;">Class Materials</h3>
 
 <br>
-<a href="#">How to Increase Lead to Revenue - by Fred Flnstone</a>
+<a href="#">Lead to Revenue </a>
 <br>
 <br>
 <a href="#">Where to start this process (pdf)</a>
 
 
 </section>
-
-
-
 
 <h4>Transcript</h4>
 
