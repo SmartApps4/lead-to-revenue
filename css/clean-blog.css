@@ -78,7 +78,7 @@ background-color: #27ae60;
 }
 
 .navbar-custom .navbar-collapse, .navbar-inverse .navbar-form {
-border-color: #ddd;
+border-color: transparent;
 }
 
 
@@ -279,10 +279,11 @@ border-color: #e0e0e0;
 /*HEADER*/
 
 
+
 .intro-header {
   background-color: #fff;
   margin-bottom: 0px;
-  margin-top:40px;
+  margin-top:0px;
 }
 .intro-header .site-heading,
 .intro-header .post-heading,
