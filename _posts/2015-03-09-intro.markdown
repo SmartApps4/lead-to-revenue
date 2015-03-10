@@ -13,12 +13,12 @@ videoURL:    "https://www.youtube.com/embed/tbWzquRPG8Y"
 <h3 style="text-align:center;">Class Materials</h3>
 
 <div>Mobile is eating the world</div>
+<br>
 <iframe src="//player.vimeo.com/video/110428014?title=0&amp;byline=0&amp;portrait=0&amp;color=3e7287" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 
 <br>
-<a href="http://amzn.to/1AfL4MW">The age of the customer </a>
-
+<a href="http://amzn.to/1AfL4MW"><img src="../img/AgeOfTheCustomer_3b.jpg" alt="New age of the customer" height="100" width="100"/></a>
 
 </section>
 
