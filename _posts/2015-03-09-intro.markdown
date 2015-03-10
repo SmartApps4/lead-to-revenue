@@ -12,11 +12,13 @@ videoURL:    "https://www.youtube.com/embed/tbWzquRPG8Y"
 <section class="materials">
 <h3 style="text-align:center;">Class Materials</h3>
 
+<iframe src="//player.vimeo.com/video/110428014?title=0&amp;byline=0&amp;portrait=0&amp;color=3e7287" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 <br>
-<a href="#">Lead to Revenue </a>
+<a href="http://player.vimeo.com/video/110428014">Mobile is eating the world</a>
 <br>
 <br>
-<a href="#">Where to start this process (pdf)</a>
+<a href="#">The age of the customer </a>
 
 
 </section>
