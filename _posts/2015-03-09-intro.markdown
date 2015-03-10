@@ -6,7 +6,7 @@ subtitle:   "Learn why managing your Lead to Revenue Cycle is so important"
 date:       2015-03-09 12:00:00
 author:     "Tony Berry"
 header-img: "img/post-bg-01.jpg"
-videoURL:    ""
+videoURL:    "http://youtu.be/tbWzquRPG8Y"
 ---
 
 <section class="materials">
