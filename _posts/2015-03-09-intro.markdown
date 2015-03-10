@@ -23,13 +23,13 @@ videoURL:    "https://www.youtube.com/embed/tbWzquRPG8Y"
 
 
 <br><br>
-<div>The Age of the Customer: Prepare for the Moment of Relevance</div>
+<div>The Age of the Customer: Prepare for the Moment of Relevance</div><br>
 <a href="http://amzn.to/1AfL4MW"><img src="/img/AgeOfTheCustomer_3b.jpg" alt="New age of the customer" height="300" width="300"/></a>
 
 <br><br>
 <br><br>
-<div>Winning in the New Age of the Customer</div>
-<a href="https://solutions.forrester.com/age-of-the-customer"><img src="/img/forrester.png" alt="Winning in the new age of the customer" height="300" width="300"/></a>
+<div>Winning in the New Age of the Customer</div><br>
+<a href="https://solutions.forrester.com/age-of-the-customer"><img src="/img/Forrester.png" alt="Winning in the new age of the customer" height="100" width="300"/></a>
 
 
 
