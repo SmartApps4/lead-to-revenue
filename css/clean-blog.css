@@ -169,8 +169,8 @@ border-color: #ddd;
 }
 
 .navbar-inverse {
-background-color: #27ae60;
-border-color: #27ae60;
+background-color: transparent;
+border-color: none;
 }
 
 .navbar-inverse .navbar-toggle {
