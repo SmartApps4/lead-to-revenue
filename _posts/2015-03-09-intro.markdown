@@ -6,7 +6,7 @@ subtitle:   "Learn why managing your Lead to Revenue Cycle is so important"
 date:       2015-03-09 12:00:00
 author:     "Tony Berry"
 header-img: "img/post-bg-01.jpg"
-videoURL:    "http://youtu.be/tbWzquRPG8Y"
+videoURL:    "https://www.youtube.com/embed/tbWzquRPG8Y"
 ---
 
 <section class="materials">
@@ -21,7 +21,7 @@ videoURL:    "http://youtu.be/tbWzquRPG8Y"
 
 </section>
 
-<h4>Transcript</h4>
+<h4>Description</h4>
 
 <p>An introduction to the overall lesson plan and review of the lead to revenue process (L2R) and why it is so important to organizations.</p>
 
