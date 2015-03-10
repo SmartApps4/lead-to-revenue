@@ -280,13 +280,7 @@ border-color: #e0e0e0;
 
 
 .intro-header {
-  background: no-repeat center center;
   background-color: #fff;
-  background-attachment: scroll;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  background-size: cover;
-  -o-background-size: cover;
   margin-bottom: 0px;
   margin-top:40px;
 }
