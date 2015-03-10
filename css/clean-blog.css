@@ -553,8 +553,16 @@ body {
 /*CUSTOM STYLES:;*/
 
 section {
-  padding:40px;
+  padding:5px;
 }
+
+@media only screen and (min-width: 768px) {
+ section {
+  padding:40px;
+} 
+}
+
+
 
 section.cta {
   padding:30px;
