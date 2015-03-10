@@ -9,23 +9,32 @@ header-img: "img/post-bg-01.jpg"
 videoURL:    "https://www.youtube.com/embed/tbWzquRPG8Y"
 ---
 
+<h4>Description</h4>
+
+<p>An introduction to the overall lesson plan and review of the lead to revenue process (L2R) and why it is so important to organizations.</p>
+
+
 <section class="materials">
-<h3 style="text-align:center;">Class Materials</h3>
+<h3 style="text-align:center;">Materials referenced in this lesson</h3>
 
 <div>Mobile is eating the world video:</div>
 <br>
 <iframe src="//player.vimeo.com/video/110428014?title=0&amp;byline=0&amp;portrait=0&amp;color=3e7287" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 
-<br>
+<br><br>
 <div>The Age of the Customer: Prepare for the Moment of Relevance</div>
-<a href="http://amzn.to/1AfL4MW"><img src="/img/AgeOfTheCustomer_3b.jpg" alt="New age of the customer" height="100" width="100"/></a>
+<a href="http://amzn.to/1AfL4MW"><img src="/img/AgeOfTheCustomer_3b.jpg" alt="New age of the customer" height="300" width="300"/></a>
+
+<br><br>
+<br><br>
+<div>Winning in the New Age of the Customer</div>
+<a href="https://solutions.forrester.com/age-of-the-customer"><img src="/img/forrester.png" alt="Winning in the new age of the customer" height="300" width="300"/></a>
+
+
 
 </section>
 
-<h4>Description</h4>
-
-<p>An introduction to the overall lesson plan and review of the lead to revenue process (L2R) and why it is so important to organizations.</p>
 
 
 
