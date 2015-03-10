@@ -78,7 +78,7 @@ background-color: #27ae60;
 }
 
 .navbar-custom .navbar-collapse, .navbar-inverse .navbar-form {
-border-color: #ddd;
+border-color: transparent;
 }
 
 
@@ -169,8 +169,8 @@ border-color: #ddd;
 }
 
 .navbar-inverse {
-background-color: #27ae60;
-border-color: #27ae60;
+background-color: transparent;
+border:none;
 }
 
 .navbar-inverse .navbar-toggle {
@@ -187,7 +187,8 @@ background-color: #fff;
 }
 
 .navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
-border-color: #e0e0e0;
+border-color: transparent;
+background-color: #27ae60
 }
 
 
@@ -208,6 +209,12 @@ border-color: #e0e0e0;
     background: transparent;
     border-bottom: 1px solid transparent;
   }
+
+  .navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
+border-color: transparent;
+background-color: transparent;
+}
+
   .navbar-inverse .navbar-brand {
     color: #fff;
     padding: 20px;
@@ -279,16 +286,11 @@ border-color: #e0e0e0;
 /*HEADER*/
 
 
+
 .intro-header {
-  background: no-repeat center center;
   background-color: #fff;
-  background-attachment: scroll;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  background-size: cover;
-  -o-background-size: cover;
   margin-bottom: 0px;
-  margin-top:40px;
+  margin-top:0px;
 }
 .intro-header .site-heading,
 .intro-header .post-heading,
@@ -559,8 +561,16 @@ body {
 /*CUSTOM STYLES:;*/
 
 section {
-  padding:40px;
+  padding:5px;
 }
+
+@media only screen and (min-width: 768px) {
+ section {
+  padding:40px;
+} 
+}
+
+
 
 section.cta {
   padding:30px;

@@ -187,7 +187,8 @@ background-color: #fff;
 }
 
 .navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
-border-color: #e0e0e0;
+border-color: transparent;
+background-color: #27ae60
 }
 
 
@@ -208,6 +209,12 @@ border-color: #e0e0e0;
     background: transparent;
     border-bottom: 1px solid transparent;
   }
+
+  .navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
+border-color: transparent;
+background-color: transparent;
+}
+
   .navbar-inverse .navbar-brand {
     color: #fff;
     padding: 20px;
