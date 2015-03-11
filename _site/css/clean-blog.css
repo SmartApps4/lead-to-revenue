@@ -688,5 +688,8 @@ font-size: 15px;
     height: 100%;
 }
 
+.pad-md {
+  padding:40px 0;
+}
 
 
