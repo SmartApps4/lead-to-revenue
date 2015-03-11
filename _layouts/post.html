@@ -23,7 +23,7 @@ layout: default
         <div class="video-container">
             <div class="video">
            
-                <iframe width="100%" height="100%" src="{{page.videoURL}}" yt:crop=16:9 frameborder="0" allowfullscreen></iframe>
+                <iframe width="100%" height="100%" src="{{page.videoURL}}" frameborder="0" allowfullscreen></iframe>
            
             </div>
         </div>
@@ -91,20 +91,6 @@ layout: default
     </div>
 </section>
 
-   
-
-
-<div class="tweet-it-wrapper clearfix no-tweet-it-bro">
-                    <div class="tweet-it-content">
-                        <header>
-                            <a href="#" class="tweet-it-close">×</a>
-                            <h1 style="font-weight:800" class="tweet-it-title">Share this</h1>
-                        </header>
-                        <p class="tweet-it-desc">{{page.title}}"</p>
-                        <br>
-                        <a href="//twitter.com/intent/tweet?text=Introducing%20Unsplash%20Stories:%20When%20a%20picture%20is%20with%20a%20thousand%20words&amp;url=http%3A%2F%2Fbackstage.pickcrew.com%2F%3Fp%3D1280&amp;via=pickcrew" class="social-sharing-button btn btn-default" title="Share this on Twitter">Tweet it</a>
-                        <a href="//www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fbackstage.pickcrew.com%2Funsplash-stories%2F" class="social-sharing-button btn btn-default" title="Share this on Facebook">Linkedin</a>
-                    </div>
-</div>
-
 <hr>
+
+ {% include sub-footer.html %}
