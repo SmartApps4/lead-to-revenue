@@ -9,13 +9,13 @@ header-img: "img/post-bg-01.jpg"
 videoURL:    "https://www.youtube.com/embed/tbWzquRPG8Y"
 ---
 
-<h4>Description</h4>
+<h3>Description</h3>
 
 <p>An introduction to the overall lesson plan and review of the lead to revenue process (L2R) and why it is so important to organizations.</p>
 
 
 <section class="materials">
-<h3 style="text-align:center;">Materials referenced in this lesson</h3>
+<h3>Materials referenced in this lesson</h3>
 
 <div>Mobile is eating the world video:</div>
 <br>
