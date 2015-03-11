@@ -17,7 +17,7 @@ videoURL:    "https://www.youtube.com/embed/tbWzquRPG8Y"
 <br>
 <br>
 <a href="https://solutions.forrester.com/age-of-the-customer" target="blank">Winning in the Age of the Customer - Forrester</a>
-
+</section>
 
 <p><b>Description:</b></p>
 
