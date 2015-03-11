@@ -9,10 +9,11 @@ header-img: "img/post-bg-01.jpg"
 videoURL:    "https://www.youtube.com/embed/tbWzquRPG8Y"
 ---
 
+<section class="description">
 <h3>Description</h3>
 
 <p>An introduction to the overall lesson plan and review of the lead to revenue process (L2R) and why it is so important to organizations.</p>
-
+</section>
 
 <section class="materials">
 <h3>Materials referenced in this lesson</h3>
@@ -30,8 +31,6 @@ videoURL:    "https://www.youtube.com/embed/tbWzquRPG8Y"
 <br><br>
 <div>Winning in the New Age of the Customer</div><br>
 <a href="https://solutions.forrester.com/age-of-the-customer"><img src="/img/Forrester.png" alt="Winning in the new age of the customer" height="100" width="300"/></a>
-
-
 
 </section>
 
