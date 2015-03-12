@@ -2,7 +2,7 @@
 layout:     post
 lesson: 	1
 title:      "Introduction & MedEdge case study"
-subtitle:   "Learn why managing your Lead to Revenue Cycle is so important"
+subtitle:   "Learn why managing your Lead to Revenue (L2R) cycle is so important"
 date:       2015-03-09 12:00:00
 author:     "Tony Berry"
 header-img: "img/post-bg-01.jpg"
