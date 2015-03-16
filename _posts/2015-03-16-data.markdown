@@ -6,4 +6,25 @@ subtitle: "<p>Low quality data is truly the secret assassin of CRM and ERP succe
 <p>The purpose of this role based training session is to help you recognize the symptoms of low quality data and present common sense solutions to the problem.  You will learn how to capture better lead data, which will produce better qualified opportunities and hence generate more revenue for greater business success.</p>"
 date:       2015-03-16 12:00:00
 author:     "Martin Doyle"
+author:     "Martin Doyle"
+header-img: "img/post-bg-01.jpg"
+videoURL:    "https://www.youtube.com/embed/XargWR38_nQ"
 ---
+
+<h3 style="text-align:center;">Class Materials</h3>
+<section class="materials text-center">
+<a href="http://www.dqglobal.com/integration-for-crm-data/" target="blank">CRM Data Quality Solutions</a>
+<br>
+<br>
+<a href="http://www.dqglobal.com/blog/" target="blank">DQ Global Blog on Data Management</a>
+<br>
+<br>
+<a href="https://www.youtube.com/channel/UCue4JsUGJLQnf7euTHnUZ3A" target="blank">You Tube Channel</a>
+</section>
+
+<p><b>Description:</b></p>
+
+<p>Low quality data is truly the secret assassin of CRM and ERP success.  When the quality of data in any business system is poor; users are unhappy, leads are squandered and potential revenue underachieved.</p> 
+<p>The purpose of this role based training session is to help you recognize the symptoms of low quality data and present common sense solutions to the problem.  You will learn how to capture better lead data, which will produce better qualified opportunities and hence generate more revenue for greater business success.</p>
+
+<br>
