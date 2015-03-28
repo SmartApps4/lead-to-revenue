@@ -13,13 +13,15 @@ videoURL:    "https://www.youtube.com/embed/P8vPvgYzRC8"
 
 <h3 style="text-align:center;">Class Materials</h3>
 <section class="materials text-center">
-<a href="http://www.salesfusion.com/downloads/Marketing%20Automation%20for%20SalesLogix.pdf" target="blank">Salesfusion Data Sheet</a>
+<a href="http://www.salesfusion.com/downloads/Salesfusion_B2Best_Infor-CRM-Integration.pdf" target="blank">Best Practice Guide for Marketing Automation</a>
 <br>
+<a href="http://www.salesfusion.com/downloads/Marketing%20Automation%20for%20SalesLogix.pdf" target="blank">Salesfusion Data Sheet</a>
 <br>
 <a href="http://www.salesfusion.com/downloads/Nurture%20Marketing%20Programs.pdf" target="blank">Nurture Marketing Overview</a>
 <br>
+
 <br>
-<a href="http://www.salesfusion.com/downloads/Salesfusion_B2Best_Infor-CRM-Integration.pdf" target="blank">Best Practice Guide for Marketing Automation</a>
+
 </section>
 
 <p><b>Description:</b></p>
