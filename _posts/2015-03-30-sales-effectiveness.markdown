@@ -12,13 +12,13 @@ header-img: "img/post-bg-06.jpg"
 
 <h3 style="text-align:center;">Class Materials</h3>
 <section class="materials text-center">
-<!--
-<a href="" target="blank">Article 1</a>
+<a href="http://info.endeavorcpq.com/download-aberdeens-automating-sales-quoting-report" target="blank">
+  Aberdeen report on the impact Configure/Price/Quote (CPQ) 
+</a>
 <br>
-<a href="" target="blank">Article 2</a>
+<a href="http://blog.endeavorcpq.com/jay_baer" target="blank">Why Branding is so important</a>
 <br>
-<a href="" target="blank">Article 3</a>
--->
+<a href="http://endeavorcpq.com/products/integrations" target="blank">Endeavor CPQ CRM Integrations</a>
 <br>
 
 <br>
